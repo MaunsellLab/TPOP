@@ -11,6 +11,7 @@
 
 # Folders #
 ############
+0/
 .svn/
 build/
 **/*.build/*
